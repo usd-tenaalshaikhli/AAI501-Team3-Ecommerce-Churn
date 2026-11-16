@@ -1,0 +1,20 @@
+# AAI-501 Team 3 - E-Commerce Churn
+# Pinned to the versions the notebooks were last run with (Python 3.13).
+# Install with: pip install -r requirements.txt
+
+# Data handling
+pandas==3.0.5
+numpy==2.5.3
+openpyxl==3.1.5        # reads data/E Commerce Dataset.xlsx
+
+# Modeling
+scikit-learn==1.9.1
+scipy==1.18.1
+
+# Plotting
+matplotlib==3.11.2
+seaborn==0.13.2
+
+# Running the notebooks locally
+ipykernel==7.4.0
+nbconvert==7.17.2
